@@ -1,2 +1,2 @@
-# pro22
-not the complete one yet 
+# staticSquare
+A static square made using Matter.js physics engine
